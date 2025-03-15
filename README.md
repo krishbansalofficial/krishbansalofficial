@@ -1,3 +1,4 @@
+
 <h1 style="text-align: center;">Hi there! I am <a href="https://www.linkedin.com/in/krish-bansalofficial/" target="_blank">Krish Bansal</a> 👋</h1>
 
 <h2 style="text-align: center;"> About ME </h2>
@@ -38,5 +39,7 @@ Build a strong professional network and collaborate on innovative ideas.
 📧 Reach me: krishbansal45@vt.edu
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishbansalofficial&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Krish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishbansalofficial&theme=react-dark)
 
 
