@@ -7,10 +7,10 @@
 
 🌱 Currently exploring system programming, web development, and data analysis.
 
-🔍 Interested in machine learning, human-computer interaction, and ethical research.
+🔍 Interested in machine learning, quantitative analysis, human-computer interaction, and ethical research.
 
-<br>
-🛠️ Tech Stack
+
+<br>🛠️ Tech Stack
 
 Languages: C, C++, Python, JavaScript, HTML/CSS, Java, Assembly, MATLAB
 
@@ -28,7 +28,8 @@ Advance my understanding of ethical AI and socially responsible computing.
 
 Build a strong professional network and collaborate on innovative ideas.
 
-<br>
+<br>![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+Driven+computer+science+enthusiast;Aspiring+to+solve+real+world+probelms&center=true&width=500&height=50)
+
 
 📫 Let's Connect!
 
