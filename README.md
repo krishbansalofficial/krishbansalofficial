@@ -32,7 +32,7 @@ Build a strong professional network and collaborate on innovative ideas.
 
 <br>
 
-📫 Let's Connect!
+📫 Let's Connect! 
 
 🌐 Portfolio (Coming Soon!)
 
@@ -40,8 +40,11 @@ Build a strong professional network and collaborate on innovative ideas.
 
 📧 Reach me: krishbansal45@vt.edu
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishbansalofficial&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishbansalofficial&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp; &nbsp; &nbsp;![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
 
 ![Krish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishbansalofficial&theme=react-dark)
+
+
 
 
