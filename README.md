@@ -3,14 +3,16 @@
 
 <h2 style="text-align: center;"> About ME </h2>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+driven+computer+science+enthusiast;Aspiring+to+solve+real-world+probelms!&left=true&width=500&height=50)
+
+
 🎓 CS Student @ Virginia Tech | 💻 Aspiring Software Developer | 🔬 Research Enthusiast
 
 🌱 Currently exploring system programming, web development, and data analysis.
 
 🔍 Interested in machine learning, human-computer interaction, and ethical research.
 
-<br>
-🛠️ Tech Stack
+<br>🛠️ Tech Stack
 
 Languages: C, C++, Python, JavaScript, HTML/CSS, Java, Assembly, MATLAB
 
