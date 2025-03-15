@@ -37,5 +37,6 @@ Build a strong professional network and collaborate on innovative ideas.
 
 📧 Reach me: krishbansal45@vt.edu
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishbansalofficial&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
