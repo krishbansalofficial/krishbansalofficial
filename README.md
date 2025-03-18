@@ -3,7 +3,7 @@
 
 <h2 style="text-align: center;"> About ME </h2>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+driven+computer+science+enthusiast;Aspiring+to+solve+real-world+probelms!&left=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+driven+computer+science+enthusiast;Aspiring+to+solve+real-world+problems!&left=true&width=500&height=50)
 
 
 🎓 CS Student @ Virginia Tech | 💻 Aspiring Software Developer | 🔬 Research Enthusiast
