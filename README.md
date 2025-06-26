@@ -42,7 +42,7 @@ Build a strong professional network and collaborate on innovative ideas.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishbansalofficial&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Krish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishbansalofficial&theme=react-dark)
+#![Krish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishbansalofficial&theme=react-dark)
 
 
 
