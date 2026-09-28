@@ -1,45 +1,111 @@
+<div align="center">
 
-<h1 style="text-align: center;">Hi there! I am <a href="https://www.linkedin.com/in/krish-bansalofficial/" target="_blank">Krish Bansal</a> </h1>
+# Hi, I'm Krish Bansal 👋
 
-<h2 style="text-align: center;"> About ME </h2>
+**Computer Science @ Virginia Tech** · ML Systems · Data Engineering · Quant Research
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A+driven+computer+science+enthusiast;Aspiring+to+solve+real-world+problems!&left=true&width=500&height=50)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Building+ML+systems+and+data+pipelines;Close+to+the+metal+and+close+to+the+markets;Always+learning%2C+always+shipping)](https://krishbansalofficial.github.io)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://krishbansalofficial.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishbansalofficial/)
+[![Email](https://img.shields.io/badge/Email-krishbansal45@vt.edu-630031?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishbansal45@vt.edu)
 
-CS Student @ Virginia Tech | Aspiring Software Developer | Research Enthusiast
+</div>
 
-Currently exploring system programming, web development, and data analysis.
+---
 
-Interested in machine learning, human-computer interaction, and ethical research.
-<br>
+## `$ whoami`
 
-##  Tech Stack
+```python
+class KrishBansal:
+    def __init__(self):
+        self.school     = "Virginia Tech"
+        self.degree     = "B.S. Computer Science"
+        self.graduation = "May 2027"
+        self.gpa        = {"cumulative": 3.62, "in_major": 3.68}
+        self.honors     = ["Dean's List x5", "Dean's List with Distinction x2"]
+        self.interests  = [
+            "machine learning systems",
+            "data engineering",
+            "quantitative finance",
+            "systems programming",
+        ]
 
-**Languages**:  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat&logo=assemblyscript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+    def say_hi(self):
+        return "Portfolio: krishbansalofficial.github.io"
+```
 
-**Other Tools/Technologies**:  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-0085FF?style=flat&logo=matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-9E4F96?style=flat&logo=seaborn&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  ![Atom](https://img.shields.io/badge/Atom-66595C?style=flat&logo=atom&logoColor=white)  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)![REST API](https://img.shields.io/badge/REST%20APIs-25D366?style=flat&logo=api&logoColor=white)   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![Version Control](https://img.shields.io/badge/Version%20Control-000000?style=flat&logo=git&logoColor=white)
-<br>
+---
 
-## **Goals**
+## 🧠 Tech Stack
 
-Develop impactful software solutions and contribute to open-source projects.
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
-Advance my understanding of ethical AI and socially responsible computing.
+**ML & Data**<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=flat-square&logo=meta&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-Build a strong professional network and collaborate on innovative ideas.
-<br>
+**Backend & Web**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-## Let's Connect! 
+**Databases**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square&logoColor=white)
 
-Portfolio (Coming Soon!)
+**Tools & Cloud**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=flat-square&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-[ LinkedIn Profile](https://www.linkedin.com/in/krish-bansalofficial/)
+---
 
-Reach me: krishbansal45@vt.edu
+## 💼 Experience
 
+| Role | Organization | When |
+|---|---|---|
+| **Intern** · ML & Data Engineering | Keshav Enterprises | May 2026 – Aug 2026 |
+| **Undergraduate Research Assistant** · Quantitative Finance | Dataism Lab, Virginia Tech | Oct 2025 – Aug 2026 |
+| **Research Assistant** · EdTech | OpenDSA, Dept. of CS, Virginia Tech | Jan 2025 – May 2025 |
+| **Intern** · Product | Uber | Oct 2022 – Dec 2022 |
 
+---
 
+## 🎯 Focus Areas
 
+- **ML systems:** retrieval-augmented generation, model evaluation and deployment gating
+- **Data engineering:** ELT pipelines, relational modeling, vector search
+- **Quant research:** deep learning for high-frequency market data
+- **Systems:** low-level programming in C: concurrency, memory, and OS internals
 
+---
+
+<div align="center">
+
+**Let's connect!** Say hi → [krishbansal45@vt.edu](mailto:krishbansal45@vt.edu)
+
+</div>
