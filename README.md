@@ -84,17 +84,6 @@ class KrishBansal:
 
 ---
 
-## 💼 Experience
-
-| Role | Organization | When |
-|---|---|---|
-| **Intern** · ML & Data Engineering | Keshav Enterprises | May 2026 – Aug 2026 |
-| **Undergraduate Research Assistant** · Quantitative Finance | Dataism Lab, Virginia Tech | Oct 2025 – Aug 2026 |
-| **Research Assistant** · EdTech | OpenDSA, Dept. of CS, Virginia Tech | Jan 2025 – May 2025 |
-| **Intern** · Product | Uber | Oct 2022 – Dec 2022 |
-
----
-
 ## 🎯 Focus Areas
 
 - **ML systems:** retrieval-augmented generation, model evaluation and deployment gating
